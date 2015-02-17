@@ -1,0 +1,29 @@
+{
+  "name": "gruntfile-starter-templates-serve-test-livereload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topherbullock/gruntfile-starter-templates.git"
+  },
+  "author": "topherbullock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topherbullock/gruntfile-starter-templates/issues"
+  },
+  "homepage": "https://github.com/topherbullock/gruntfile-starter-templates",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-concurrent": "^1.0.0",
+    "grunt-contrib-jasmine": "^0.8.2",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-http-server": "^1.2.0",
+    "grunt-open": "^0.2.3",
+    "jshint-stylish": "^1.0.0"
+  }
+}

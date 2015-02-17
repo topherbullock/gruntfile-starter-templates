@@ -1,0 +1,29 @@
+{
+  "name": "gruntfile-starter-templates",
+  "version": "1.0.0",
+  "description": "A few useful Gruntfile templates / starters",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topherbullock/gruntfile-starter-templates.git"
+  },
+  "keywords": [
+    "grunt",
+    "gruntfile",
+    "build",
+    "automation",
+    "test"
+  ],
+  "author": "topherbullock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topherbullock/gruntfile-starter-templates/issues"
+  },
+  "homepage": "https://github.com/topherbullock/gruntfile-starter-templates",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}

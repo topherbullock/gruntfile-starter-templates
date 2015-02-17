@@ -1,0 +1,27 @@
+body {
+  background : #111;
+  /*comment for "Could you NOT with the hot pink"*/
+  border: 20px solid hotpink;
+  /*/comment*/
+
+  margin:0;
+  padding:0;
+}
+
+h1 {
+    color: hotpink;
+    font-family: sans-serif;
+    width: 300px;
+    text-align: center;
+    margin: 1% auto;
+    display: block;
+}
+
+img {
+    width: 250px;
+    margin: 1% auto;
+    border: 6px solid hotpink;
+    min-height: 150px;
+    height:auto;
+    display: block;
+}
